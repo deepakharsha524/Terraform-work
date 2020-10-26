@@ -20,6 +20,7 @@ AWS Resources: https://www.terraform.io/docs/providers/aws/
 
 List of providers: https://www.terraform.io/docs/providers/index.html
 
+# AWS provider
 'The Amazon Web Services (AWS) provider is used to interact with the many resources supported by AWS. The provider needs to be configured with the proper credentials before it can be used
 
 
